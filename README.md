@@ -1,1 +1,1 @@
-# A-Complete-Guide-to-Machine-Learning-Models
+# The Complete Guide Series
